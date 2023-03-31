@@ -9,6 +9,8 @@ export default [
     {
         Year : "2023", 
         Title: "Solo Indie Developer",
+        Duration : "",
+        Company :"",
         Description : "I'm a solo indie developer I create apps for my personal use, starting from the initial stages of planning and design, and continuing all the way through to utilizing code to solve practical issues. Each coding project is developed from scratch.",
     },
     {
@@ -28,6 +30,7 @@ export default [
     {
         Year : "2020 - 2023 ", 
         Title: "Bachelor's Degree in Information Technology",
+        Company: "",
         Duration : "3 years",
         Description : "My pursuit of an Information Technology degree has provided me with knowledge in various fields, including computer architecture, computer science theory, a range of programming languages, and aspects of artificial intelligence.",
     },
