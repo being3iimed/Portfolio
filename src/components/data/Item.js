@@ -1,21 +1,23 @@
+import oneImage from '/assets/one.jpg';
+import imgtwo from '/assets/two.jpg';
 export default [
     {
         Title : "Bookstore", 
-        ImageUrl : "src\assets\one.jpg",
+        ImageUrl: oneImage,
         Stack : ["Spring boot","MySQL","thymeleaf","JPA"],
         Link : "",
     }
     ,
     {
         Title : "Portfolio website", 
-        ImageUrl : "",
+        ImageUrl : imgtwo,
         Stack : ["React","Tailwind",,"Vite"],
         Link : "",
     }
     ,
     {
         Title : "Chat-App", 
-        ImageUrl : "",
+        ImageUrl : imgtwo,
         Stack : ["React","Fireebase", "ChatEngine"],
         Link : "",
     },
