@@ -13,8 +13,11 @@ function TimelineItem({Year, Title, Company, Duration, Description }){
                         {Title}
                     </h3>
                     <div className="my-1 font-normal leading-none text-stone-400">
-                        {Duration} {" "} {Company}
+                        {Duration} 
                     </div>
+                    <p className="my-2 text-base font-normal text-stone-500 ">
+                        {Company}
+                    </p>
                     <p className="my-2 text-base font-normal text-stone-500 ">
                         {Description}
                     </p>
@@ -24,4 +27,4 @@ function TimelineItem({Year, Title, Company, Duration, Description }){
     )
 }
 
-export default Timeline;
+export default TimelineItem;
