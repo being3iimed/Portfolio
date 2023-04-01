@@ -1,5 +1,7 @@
 import oneImage from '/assets/one.jpg';
-import imgtwo from '/assets/two.jpg';
+import imgtwo from '/assets/two.png';
+import three from '/assets/portfolio.png';
+import four from '/assets/chat.png';
 export default [
     {
         Title : "Books-App", 
@@ -10,14 +12,14 @@ export default [
     ,
     {
         Title : "Portfolio website", 
-        ImageUrl : imgtwo,
+        ImageUrl : three,
         Stack : ["React","Tailwind",,"Vite"],
         Link : "https://github.com/being3iimed/dev-website",
     }
     ,
     {
         Title : "Chat-App", 
-        ImageUrl : imgtwo,
+        ImageUrl : four,
         Stack : ["React","Firebase", "ChatEngine"],
         Link : "https://github.com/being3iimed/chatApp-ReactJS",
     },
