@@ -18,7 +18,7 @@ export default [
     {
         Title : "Chat-App", 
         ImageUrl : imgtwo,
-        Stack : ["React","Fireebase", "ChatEngine"],
+        Stack : ["React","Firebase", "ChatEngine"],
         Link : "https://github.com/being3iimed/chatApp-ReactJS",
     },
     {
