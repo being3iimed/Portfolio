@@ -3,7 +3,7 @@ import Contact from "./components/Contact";
 import Portfolio from "./components/Portfolio";
 import Footer from "./components/Footer";
 import Timeline from "./components/Timeline";
-import Intro from "./components/intro";
+import Intro from "./components/Intro";
 
 function App() {
   return (
