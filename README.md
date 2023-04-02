@@ -29,7 +29,7 @@ This project was built using these technologies.
 ## Features
 
 
-**🎨 Styled with React-Tailwind and Css with easy to customize colors**
+**🎨 Styled with React-Tailwind **
 
 **📱 Fully Responsive**
 
