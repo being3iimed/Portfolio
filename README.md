@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://imedkouki.me/" target="_blank">imedkouki.me</a>
+ 
 </h2>
 <br/>
 
@@ -16,9 +16,6 @@
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [being3iimed](https://github.com/being3iimed/dev-website). Thanks!
 
-## Built With
-
-My personal portfolio <a href="https://imedkouki.me/" target="_blank">imedkouki.me</a> which features some of my github projects .<br/>
 
 This project was built using these technologies.
 
